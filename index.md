@@ -36,7 +36,7 @@ Briefly show how you changed the template code to display a different image. Dem
 What I changed in the code was that I changed the distance between each Stripes from 0 - 220 was the first colour 220-240 was the second colour and so one to make the Irish flag.
 I implemented that code 5 times so that it displays the flag of Ireland on the VGA
 
-![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-02%20155133.png)
+![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-02%20155133.png) ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-02%20155100.png)
 
 ### **Simulation**
 Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
