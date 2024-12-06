@@ -32,33 +32,21 @@ Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 Introduce your own design idea. Consider how complex/achievabble this might be or otherwise. Reference any research you do online (use hyperlinks).
 
 ### **Code Adaptation**
-Briefly show how you changed the template code to display a different image. Demonstrate your understanding. Guideline: 1-2 short paragraphs.
-What I changed in the code was that I changed the distance between each Stripes from 0 - 220 was the first colour 220-240 was the second colour and so one to make the Irish flag.
+
+What I changed in the code was that I changed the distance between each Stripes from 0 - 210 was the first colour 210-220 was the second colour and so one to make the Irish flag.
 I implemented that code 5 times so that it displays the flag of Ireland on the VGA
 
 ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-02%20155133.png) ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-02%20155100.png)
 
 ### **Simulation**
-Show how you simulated your own design. Are there any things to note? Demonstrate your understanding. Add a screenshot. Guideline: 1-2 short paragraphs.
+I simlutated my design my generating the Bitstream first, then opened open target and selected the VGA board for the code to simulate.
+
 ### **Synthesis**
-Describe the synthesis & implementation outputs for your design, are there any differences to that of the original design? Guideline 1-2 short paragraphs.
+Yes there is a differents, since my design requires less colours, the outputs would last shorter than the outputs which have more colours.
+
 ### **Demonstration**
-If you get your own design working on the Basys3 board, take a picture! Guideline: 1-2 sentences.
+I have gotten the code to work, got the synthesis and implementation to work, I just for got to take a screenshot of it.
 
-## **More Markdown Basics**
-This is a paragraph. Add an empty line to start a new paragraph.
 
-Font can be emphasised as *Italic* or **Bold**.
-
-Code can be highlighted by using `backticks`.
-
-Hyperlinks look like this: [GitHub Help](https://help.github.com/).
-
-A bullet list can be rendered as follows:
-- vectors
-- algorithms
-- iterators
-
-Images can be added by uploading them to the repository in a /docs/assets/images folder, and then rendering using HTML via githubusercontent.com as shown in the example below.
 
 <img src="https://raw.githubusercontent.com/melgineer/fpga-vga-verilog/main/docs/assets/images/VGAPrjSrcs.png">
