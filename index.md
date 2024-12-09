@@ -24,8 +24,7 @@ So what the simulation does is that it generates a bitstream which then transpor
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
-![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-09%20151730.png) ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-09%20151812.png)
-
+![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Synthesis.png)
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
 
