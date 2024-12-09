@@ -1,2 +1,2 @@
 # fpga-vga-verilog
-![image](https://github.com/DamianDobrzycki1/docs/assets/images/Screenshot 2024-12-09 151707.png)
+![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-09%20151707.png)
