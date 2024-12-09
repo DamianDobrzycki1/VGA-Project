@@ -42,7 +42,7 @@ I implemented that code 5 times so that it displays the flag of Ireland on the V
 
 ### **Simulation**
 This is the simulation 
-<img src="https://raw.githubusercontent.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Simulation.png">
+![image](https://raw.githubusercontent.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Simulation.png)
 
 
 ### **Synthesis**
