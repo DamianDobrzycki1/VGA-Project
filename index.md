@@ -38,7 +38,7 @@ Introduce your own design idea. Consider how complex/achievabble this might be o
 What I changed in the code was that I changed the distance between each Stripes from 0 - 210 was the first colour 210-220 was the second colour and so one to make the Irish flag.
 I implemented that code 5 times so that it displays the flag of Ireland on the VGA
 
-![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Code.png) ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Morecode.png)
+<img src="https://raw.githubusercontent.com/DamianDobrzycki1/VGA-Project/refs/heads/main/docs/assets/images/Screenshot%202024-12-02%20155133.png"> <img src="https://raw.githubusercontent.com/DamianDobrzycki1/VGA-Project/refs/heads/main/docs/assets/images/Screenshot%202024-12-02%20155100.png">
 
 ### **Simulation**
 This is the simulation 
