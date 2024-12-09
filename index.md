@@ -24,6 +24,7 @@ So what the simulation does is that it generates a bitstream which then transpor
 
 ### **Synthesis**
 Describe the synthesis and implementation processes. Consider including 1/2 useful screenshot(s). Guideline: 1/2 short paragraphs.
+![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-09%20151730.png) ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-09%20151812.png)
 
 ### **Demonstration**
 Perhaps add a picture of your demo. Guideline: 1/2 sentences.
@@ -39,7 +40,9 @@ I implemented that code 5 times so that it displays the flag of Ireland on the V
 ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-02%20155133.png) ![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-02%20155100.png)
 
 ### **Simulation**
-I simlutated my design my generating the Bitstream first, then opened open target and selected the VGA board for the code to simulate.
+This is the simulation 
+![image](https://github.com/DamianDobrzycki1/VGA-Project/blob/main/docs/assets/images/Screenshot%202024-12-09%20151920.png)
+
 
 ### **Synthesis**
 Yes there is a differents, since my design requires less colours, the outputs would last shorter than the outputs which have more colours.
